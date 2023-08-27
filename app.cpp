@@ -53,7 +53,7 @@ int main() {
     vector<User> users = readUserData();
 
     while (true) {
-        cout << "Welcome to the Task Manager" << endl;
+        cout << "Welcome to the Login and Register form" << endl;
         cout << "1. Register" << endl;
         cout << "2. Login" << endl;
         cout << "3. Exit" << endl;
