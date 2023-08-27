@@ -32,10 +32,14 @@ Checkout the demonstration of the application:
 ### Login of user
 ![image](https://github.com/NITHES2003/Login-and-Registration-form/assets/80467294/e292d863-b8b3-4840-b1d0-c17208782e1e)
 
+## Recent improvement
+Implementing Simple DirectMedia Layer (SDL) library to create a user-friendly login and registration page  
+
+![image](https://github.com/NITHES2003/Login-and-Registration-form/assets/80467294/7a693688-5212-443c-84b0-9293274c909c)
+
 ## Future improvements
 1. Adding task management functionality
 2. Using a SQL database for storing credentials insted of text file
-3. Implementing Simple DirectMedia Layer (SDL) library to create a user-friendly login and registration page
 
 
 
